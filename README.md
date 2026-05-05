@@ -6,8 +6,8 @@
 
 *Building things since 6th grade — and still going.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganpatth)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganpatthr.radjane@gmail.com)
 
 </div>
 
@@ -55,10 +55,11 @@ I'm a Computer Science student (majoring in **Advanced Computer Science + Cybers
 
 ## 🔍 Currently Exploring
 
-- 🛡️ Penetration testing & ethical hacking
-- 📡 Network security & infrastructure hardening
 - 🤖 Algorithms & data structures (ADS)
 - ☁️ Cloud hosting & DevOps
+- 🛡️ Penetration testing & ethical hacking
+- 📡 Network security & infrastructure hardening
+
 
 ---
 
