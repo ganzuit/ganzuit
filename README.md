@@ -17,7 +17,7 @@
 
 I'm a Computer Science student (majoring in **Advanced Computer Science + Cybersecurity**) who started coding at age 12 and never really stopped. I love making tech work *for* people — whether that's automating tedious tasks, building platforms, or hardening systems.
 
-- 🏗️ Built a **logistics aggregator platform** from scratch during COVID — served 70+ clients and processed ~15,000 shipments/month
+- 🏗️ Built a **logistics aggregator platform** from scratch during COVID that served 70+ clients and processed about 6,000 shipments/month
 - 🌐 Worked at an **ISP** in web hosting, managing servers and OS configs for client websites
 - 📱 Developed an **employee management app** for a business to replace manual workflows
 - 🔒 Passionate about **cybersecurity** — been poking at systems and finding vulnerabilities since I was a kid
